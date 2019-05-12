@@ -1,3 +1,4 @@
+<title>Game Of Thrones</title>
 <center>
     <h1 align="center"> Game Of Thrones </h1>
     <blockquote>
