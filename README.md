@@ -1,11 +1,8 @@
----
-title: Game Of Thrones
----
 <center>
-    <h1 align="center"> Game Of Thrones </h1>
+    <h1 align="center"> Let's keep it a secret, alright! </h1>
     <blockquote>
         <p align="center">
-            <bold>WARNING</bold>: Don't tell David Benioff about this!
+            <bold>WARNING</bold>: Don't tell David Benioff about it!
         </p>
     </blockquote>
 </center>
