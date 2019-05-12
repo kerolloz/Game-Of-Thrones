@@ -34,10 +34,10 @@
         <li> <a href="http://bit.ly/moby-we-are-all-made-of-stars-ned-stark"> Moby - We Are All Made Of Stars</a> (
             Ned
             Stark )</li>
-        <li> <a href="bit.ly/lapalux-without-you-osha"> Lapalux - Without You</a> ( Osha )</li>
-        <li> <a href="bit.ly/madonna-you-must-love-me-high-sparrow"> Madonna - You Must Love Me</a> ( High Sparrow )
+        <li> <a href="http://bit.ly/lapalux-without-you-osha"> Lapalux - Without You</a> ( Osha )</li>
+        <li> <a href="http://bit.ly/madonna-you-must-love-me-high-sparrow"> Madonna - You Must Love Me</a> ( High Sparrow )
         </li>
-        <li> <a href="bit.ly/the-luka-state-30-minute-break-jojen-reed"> The Luka State - 30 Minute Break</a> (
+        <li> <a href="http://bit.ly/the-luka-state-30-minute-break-jojen-reed"> The Luka State - 30 Minute Break</a> (
             Jojen Reed )
         </li>
     </ul>
